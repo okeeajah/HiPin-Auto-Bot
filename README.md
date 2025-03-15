@@ -14,7 +14,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/airdropinsiders/HiPin-Auto-Bot.git
+git clone https://github.com/okeeajah/HiPin-Auto-Bot.git
 cd HiPin-Auto-Bot
 ```
 
